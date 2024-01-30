@@ -1,4 +1,12 @@
 image_url,captionA_url,captionB_url
+timage/1.jpg,t3/1.jpg,t4/1.jpg
+timage/2.jpg,t4/2.jpg,t3/1.jpg
+timage/3.jpg,t3/1.jpg,t4/3.jpg
+timage/4.jpg,t4/4.jpg,t3/1.jpg
+timage/5.jpg,t4/5.jpg,t3/1.jpg
+timage/6.jpg,t3/1.jpg,t4/6.jpg
+timage/7.jpg,t4/7.jpg,t3/1.jpg
+timage/8.jpg,t3/1.jpg,t4/8.jpg
 image/00000.jpg,2/00000.jpg,4/00000.jpg
 image/00001.jpg,2/00001.jpg,4/00001.jpg
 image/00002.jpg,2/00002.jpg,4/00002.jpg
